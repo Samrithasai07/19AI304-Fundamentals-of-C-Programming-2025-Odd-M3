@@ -220,7 +220,7 @@ int main() {
 }
 ```
 # Output:
-<img width="690" height="214" alt="image" src="https://github.com/user-attachments/assets/a95e04e6-5b0f-43dd-bee6-4fdc30a5fc70" />
+<img width="610" height="378" alt="image" src="https://github.com/user-attachments/assets/539f3a08-cb5c-4403-9911-48518a09e1c2" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -284,7 +284,7 @@ int main() {
 }
 ```
 # Output:
-<img width="754" height="389" alt="image" src="https://github.com/user-attachments/assets/92a7020b-8239-4473-9730-6325ceedc94e" />
+<img width="569" height="439" alt="image" src="https://github.com/user-attachments/assets/70c4d600-7d44-4acf-a38b-d8ae1e0d782e" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -360,7 +360,7 @@ int main() {
 ```
 
 # Output:
-<img width="593" height="180" alt="image" src="https://github.com/user-attachments/assets/daf8a6c6-7efe-44f7-af06-ef4e17751f29" />
+<img width="617" height="295" alt="image" src="https://github.com/user-attachments/assets/0b65d647-b537-4fcc-adb9-36a374adf63b" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
